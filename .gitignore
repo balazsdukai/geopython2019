@@ -1,0 +1,11 @@
+# pipenv
+Pipfile.lock
+
+# KDE
+.directory
+
+# Jupyter
+.ipynb_checkpoints
+
+# Notes
+NOTES_BALAZS.*
