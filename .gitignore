@@ -9,3 +9,7 @@ Pipfile.lock
 
 # Notes
 NOTES_BALAZS.*
+
+# Test output
+test_*.json
+test_*.json

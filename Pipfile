@@ -4,12 +4,12 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-jupyter = "*"
-jupyterlab = "*"
 
 [packages]
 cjio = {editable = true,git = "https://github.com/tudelft3d/cjio",ref = "develop"}
 pandas = "*"
+jupyter = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.6"
